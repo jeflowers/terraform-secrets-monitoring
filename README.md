@@ -1,4 +1,4 @@
-### 📜 **README.md - Terraform Secrets Monitoring**  
+### 📜 **Terraform Secrets Monitoring**  
 
 ### 📂 **Repository Structure**
 ```
